@@ -29,4 +29,16 @@ window.dataset = [
         description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
         link: 'react-functional-hook'
     },
+    {
+        title: 'dongnguyenvie@gmail.com',
+        images: 'https://cdn-images-1.medium.com/max/1200/1*lTaYmnmt1NdkNFh7u6zzkw.png',
+        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        link: 'react-functional-hook'
+    },
+    {
+        title: 'dongnguyenvie@gmail.com',
+        images: 'https://camo.githubusercontent.com/92738bd9b9e3016b7f89bf5370a3e6c5a73673dd/68747470733a2f2f692e696d6775722e636f6d2f306233567450752e6a7067',
+        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        link: 'https://nuxtjs-example.herokuapp.com/'
+    },
 ]

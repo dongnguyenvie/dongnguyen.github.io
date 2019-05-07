@@ -2,38 +2,44 @@ window.dataset = [
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://storage.googleapis.com/openscreenshot/N/K/P/r17DlsPKN.png',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is project using Reactjs`,
         link: 'shop-studio-examp-reactjs'
     },
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://storage.googleapis.com/openscreenshot/V/Y/w/HyMp-iwYV.png',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is project using Vuejs`,
         link: 'https://coders-tokyo-shop-vuejs.herokuapp.com/'
     },
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://s3.amazonaws.com/coursetro/posts/144-full.png',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is example of Vuex`,
         link: 'vuex-count-example'
     },
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://cdn-images-1.medium.com/max/1600/1*QERgzuzphdQz4e0fNs1CFQ.gif',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is example of React Redux Saga`,
         link: 'reactjs-redux-saga-example'
     },
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://cdn-images-1.medium.com/max/1200/1*lTaYmnmt1NdkNFh7u6zzkw.png',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is example React Hook vs Functional`,
         link: 'react-functional-hook'
     },
     {
         title: 'dongnguyenvie@gmail.com',
         images: 'https://camo.githubusercontent.com/92738bd9b9e3016b7f89bf5370a3e6c5a73673dd/68747470733a2f2f692e696d6775722e636f6d2f306233567450752e6a7067',
-        description: `This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.`,
+        description: `This is project server side render example example of Nuxtjs`,
         link: 'https://nuxtjs-example.herokuapp.com/'
+    },
+    {
+        title: 'dongnguyenvie@gmail.com',
+        images: 'https://lh3.googleusercontent.com/6dro88niZCx9NHjcWtkQSHLXb7p5rQqVtJo1dLuFJFbsula2GG8iF7meubL6FHze_e0lSoqEbw=w640-h400-e365',
+        description: `This is extension chrome using Vuejs`,
+        link: 'https://chrome.google.com/webstore/detail/kiite/mlbpcjgmdkcobplhkjknlllpeeebgcai?fbclid=IwAR1vmAWvYlSUOGgCYYHQWYGR2KQUdLRnXt9hwQp8rUVMFYW8MvRCv1aSQmQ'
     },
 ]
 

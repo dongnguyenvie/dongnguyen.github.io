@@ -47,6 +47,12 @@ window.dataset = [
         description: `This is react saga project by Dat Mai`,
         link: 'https://codesandbox.io/s/24py12x100?fbclid=IwAR1Wjua06Kuw_uIAxv4j0TBhgm0U7CnH0eygSfsI3KJJDPazZ0IUz_diQdw'
     },
+    {
+        title: 'dongngyenvie@gmail.com',
+        images: 'https://cdn-images-1.medium.com/max/1600/1*CHH1P0NwJfZzXXHo-VUzOA.png',
+        description: `This is example for react saga using typescript syntax`,
+        link: 'reactjs/reactjs-saga-typescript-example-1'
+    },
 ]
 
 var cssTerminal =

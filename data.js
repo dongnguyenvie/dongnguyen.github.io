@@ -41,6 +41,12 @@ window.dataset = [
         description: `This is extension chrome using Vuejs`,
         link: 'https://chrome.google.com/webstore/detail/kiite/mlbpcjgmdkcobplhkjknlllpeeebgcai?fbclid=IwAR1vmAWvYlSUOGgCYYHQWYGR2KQUdLRnXt9hwQp8rUVMFYW8MvRCv1aSQmQ'
     },
+    {
+        title: 'binhthien80@gmail.com',
+        images: 'https://i.imgur.com/5cXH5pF.png',
+        description: `This is react saga project by Dat Mai`,
+        link: 'https://codesandbox.io/s/24py12x100?fbclid=IwAR1Wjua06Kuw_uIAxv4j0TBhgm0U7CnH0eygSfsI3KJJDPazZ0IUz_diQdw'
+    },
 ]
 
 var cssTerminal =

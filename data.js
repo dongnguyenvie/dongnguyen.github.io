@@ -53,6 +53,12 @@ window.dataset = [
         description: `This is example for react saga using typescript syntax`,
         link: 'reactjs/reactjs-saga-typescript-example-1'
     },
+    {
+        title: 'dongngyenvie@gmail.com',
+        images: 'https://audiovyvy.com/wp-content/uploads/2018/10/Audiovyvy-Bong-ma-ben-cua-Truyen-ma-Nguyen-Ngoc-Ngan-300x450.jpg',
+        description: `This is vuejs project using graphql of wordpress backend`,
+        link: 'audiovyvy'
+    },
 ]
 
 var cssTerminal =
